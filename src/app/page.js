@@ -41,7 +41,7 @@ const TRANSLATIONS = {
     prev: "Prev",
     next: "Next",
     thankYou: "Thank You!",
-    success: "We appreciate your feedback! We'll be in touch with you shortly."
+    success: "We appreciate your feedback! We'll be in touch with you shortly and here is your coupon code: [FM26758]."
   },
   hi: {
     welcome: "Future Motors फीडबैक सेक्शन में आपका स्वागत है",
@@ -78,7 +78,7 @@ const TRANSLATIONS = {
     prev: "पीछे",
     next: "आगे",
     thankYou: "धन्यवाद!",
-    success: "हम आपकी प्रतिक्रिया की सराहना करते हैं! हम जल्द ही आपसे संपर्क करेंगे।"
+    success: "हम आपकी प्रतिक्रिया की सराहना करते हैं! हम जल्द ही आपसे संपर्क करेंगे और यह रहा आपका कूपन कोड: [FM235609]।"
   }
 };
 
