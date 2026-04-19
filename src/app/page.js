@@ -153,8 +153,8 @@ export default function TataFeedback() {
     <div className="min-h-screen bg-[#FDFDFF] text-slate-900 font-sans selection:bg-indigo-100">
 <div className="relative w-full h-56 md:h-80 lg:h-96 bg-slate-200 overflow-hidden">
         <img 
-          src="/cover.jpg" 
-          alt="Tata Motors Cover" 
+          src="/cover1.jpg" 
+          alt="Future Motors Cover" 
           className="w-full h-full object-cover" 
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#F8F9FC] via-transparent to-transparent"></div>
