@@ -3,11 +3,11 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, Star, Send, Globe, CheckCircle2, Facebook, Twitter, User, Phone } from 'lucide-react';
 
-const SHEETDB_URL = 'https://sheetdb.io/api/v1/lgl0ouhiwmjp2';
+const SHEETDB_URL = 'https://sheetdb.io/api/v1/3iwpez09a1e06';
 
 const TRANSLATIONS = {
   en: {
-    welcome: "Welcome to Libra Automobiles Feedback Section",
+    welcome: "Welcome to Future Motors Feedback Section",
     subWelcome: "We value your feedback. It helps us improve and serve you better.",
     langLabel: "Select Language",
     continue: "Continue",
@@ -44,7 +44,7 @@ const TRANSLATIONS = {
     success: "We appreciate your feedback! We'll be in touch with you shortly."
   },
   hi: {
-    welcome: "Libra Automobile फीडबैक सेक्शन में आपका स्वागत है",
+    welcome: "Future Motors फीडबैक सेक्शन में आपका स्वागत है",
     subWelcome: "हम आपकी प्रतिक्रिया को महत्व देते हैं। यह हमें बेहतर बनाने में मदद करता है।",
     langLabel: "भाषा चुनें",
     continue: "जारी रखें",
