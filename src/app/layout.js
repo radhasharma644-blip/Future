@@ -15,30 +15,30 @@ export const metadata = {
   metadataBase: new URL("https://yourdomain.com"),
 
   title: {
-    default: "Customer Feedback | Libra Automobiles - Tata Motors",
-    template: "%s | Libra Automobiles",
+    default: "Customer Feedback | Future Motors - Tata Motors",
+    template: "%s | Future Motors",
   },
 
   description:
-    "Share your experience with Libra Automobiles Tata Motors dealership. Your feedback helps us improve our service and customer satisfaction.",
+    "Share your experience with Future Motors Tata Motors dealership. Your feedback helps us improve our service and customer satisfaction.",
 
   keywords: [
     "Tata Motors feedback",
-    "Libra Automobiles",
+    "Future Motors",
     "customer feedback form",
     "dealership survey",
     "vehicle feedback India",
   ],
 
-  authors: [{ name: "Libra Automobiles" }],
-  creator: "Libra Automobiles",
+  authors: [{ name: "Future Motors" }],
+  creator: "Future Motors",
 
   openGraph: {
-    title: "Libra Automobiles Customer Feedback",
+    title: "Future Motors Customer Feedback",
     description:
       "Tell us about your experience with Tata Motors dealership. Your feedback matters.",
     url: "https://yourdomain.com/feedback",
-    siteName: "Libra Automobiles",
+    siteName: "Future Motors",
     images: [
       {
         url: "/cover.jpg",
@@ -53,7 +53,7 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Libra Automobiles Feedback",
+    title: "Future Motors Feedback",
     description:
       "Share your Tata Motors dealership experience with us.",
     images: ["/cover.jpg"],
